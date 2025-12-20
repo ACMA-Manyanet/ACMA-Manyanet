@@ -37,6 +37,12 @@
 			<img alt="Figma" src="https://img.shields.io/badge/markdown-05122A?style=flat&logo=markdown">
 		</kbd>
 		<kbd>
+			<kbd>🏯 Databases</kbd>
+			<br>
+			<br>
+			<img alt="Github Pages" src="https://img.shields.io/badge/Github%20Pages-05122A?style=flat&logo=Github">
+		</kbd>
+		<kbd>
 			<kbd>🤖 Artificial Intelligence</kbd>
 			<br>
 			<br>
@@ -95,7 +101,6 @@
 			<br>
 			<br>
 			<img alt="Git" src="https://img.shields.io/badge/Git-05122A?style=flat&logo=Git">
-		    <img alt="Github Desktop" src="https://img.shields.io/badge/Github%20Desktop-05122A?style=flat&logo=Github">
 		</kbd>
 	</p>
 </div> <!--Añadir más categorías-->
