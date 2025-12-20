@@ -36,12 +36,6 @@
 			<img alt="CSS" src="https://img.shields.io/badge/css-05122A?style=flat&logo=css&">
 			<img alt="Figma" src="https://img.shields.io/badge/markdown-05122A?style=flat&logo=markdown">
 		</kbd>
-    	<kbd>
-			<kbd>Databases</kbd>
-			<br>
-			<br>
-			<img alt="Github Pages" src="https://img.shields.io/badge/Github%20Pages-05122A?style=flat&logo=Github">
-		</kbd>
 		<kbd>
 			<kbd>🤖 Artificial Intelligence</kbd>
 			<br>
