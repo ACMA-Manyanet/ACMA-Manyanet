@@ -28,63 +28,81 @@
 	<p style="display: inline-block;">
 	<p>
 		<kbd>
-			<kbd>Programming Languages</kbd>
+			<kbd>📋 Languages</kbd>
 			<br>
 			<br>
 			<img alt="Python" src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python">
+			<img alt="HTML5" src="https://img.shields.io/badge/html5-05122A?style=flat&logo=html5">
+			<img alt="CSS" src="https://img.shields.io/badge/css-05122A?style=flat&logo=css&">
+			<img alt="Figma" src="https://img.shields.io/badge/markdown-05122A?style=flat&logo=markdown">
 		</kbd>
-    <kbd>
+    	<kbd>
 			<kbd>Databases</kbd>
 			<br>
 			<br>
 			<img alt="Github Pages" src="https://img.shields.io/badge/Github%20Pages-05122A?style=flat&logo=Github">
 		</kbd>
+		<kbd>
+			<kbd>🤖 Artificial Intelligence</kbd>
+			<br>
+			<br>
+			<img alt="ChatGPT" src="https://img.shields.io/badge/chatGPT-05122A?style=flat&logo=openai">
+			<img alt="Gemini" src="https://img.shields.io/badge/google%20gemini-05122A?style=flat&logo=google%20gemini">
+			<img alt="Claude" src="https://img.shields.io/badge/Claude-05122A?style=flat&logo=claude">
+			<img alt="Perplexity" src="https://img.shields.io/badge/perplexity-05122A?style=flat&logo=perplexity">
+		</kbd>
+		<kbd>
+			<kbd>📐 CAD</kbd>
+			<br>
+			<br>
+			<img alt="Tinkercad" src="https://img.shields.io/badge/Tinkercad-05122A?style=flat&logo=tinkercad">
+		</kbd>
+		<kbd>
+			<kbd>📂 Cloud Storage</kbd>
+			<br>
+			<br>
+			<img alt="Google Drive" src="https://img.shields.io/badge/Google%20Drive-05122A?style=flat&logo=googledrive">
+		</kbd>
 	</p>
-  <p>
-    <kbd>
-			<kbd>Software and Tools</kbd>
+	<p>
+		<kbd>
+			<kbd>🎨 Design</kbd>
+			<br>
+			<br>
+			<img alt="Illustrator" src="https://img.shields.io/badge/adobe%20illustrator-05122A?style=flat&logo=adobe%20illustrator">
+		    <img alt="Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-05122A?style=flat&logo=adobe%20photoshop">
+			<img alt="Inkscape" src="https://img.shields.io/badge/Inkscape-05122A?style=flat&logo=inkscape">
+			<img alt="Canva" src="https://img.shields.io/badge/Canva-05122A?style=flat&logo=Canva">
+			<img alt="Figma" src="https://img.shields.io/badge/figma-05122A?style=flat&logo=figma">
+			<img alt="Blogger" src="https://img.shields.io/badge/Blogger-05122A?style=flat&logo=blogger">
+		</kbd>
+		<kbd>
+			<kbd>🎓 Education</kbd>
+			<br>
+			<br>
+			<img alt="W3 Schools" src="https://img.shields.io/badge/W3%20Schools-05122A?style=flat&logo=w3schools">
+		</kbd>
+		<kbd>
+			<kbd>💻 IDEs</kbd>
+			<br>
+			<br>
+			<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-05122A?style=flat&logo=Visual%20Studio%20Code">
+		</kbd>
+		<kbd>
+			<kbd>🎶 Music</kbd>
+			<br>
+			<br>
+			<img alt="Audacity" src="https://img.shields.io/badge/Audacity-05122A?style=flat&logo=audacity">
+		</kbd>
+		<kbd>
+			<kbd>🕓 Version Control</kbd>
 			<br>
 			<br>
 			<img alt="Git" src="https://img.shields.io/badge/Git-05122A?style=flat&logo=Git">
-      <img alt="Github Desktop" src="https://img.shields.io/badge/Github%20Desktop-05122A?style=flat&logo=Github">
-      <img alt="Blogger" src="https://img.shields.io/badge/Blogger-05122A?style=flat&logo=blogger">
-      <img alt="Tinkercad" src="https://img.shields.io/badge/Tinkercad-05122A?style=flat&logo=tinkercad">
-      <img alt="" src="https://img.shields.io/badge/Google%20Drive-05122A?style=flat&logo=googledrive">
-      <img alt="" src="https://img.shields.io/badge/adobe%20illustrator-05122A?style=flat&logo=adobe%20illustrator">
-      <img alt="" src="https://img.shields.io/badge/adobe%20photoshop-05122A?style=flat&logo=adobe%20photoshop">
-      <img alt="" src="https://img.shields.io/badge/figma-05122A?style=flat&logo=figma">
-      <img alt="" src="https://img.shields.io/badge/Inkscape-05122A?style=flat&logo=inkscape">
-      <img alt="" src="">
-      <img alt="" src="">
-      <img alt="" src="">
-			<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-05122A?style=flat&logo=Visual%20Studio%20Code">
-			<img alt="Canva" src="https://img.shields.io/badge/Canva-05122A?style=flat&logo=Canva">
+		    <img alt="Github Desktop" src="https://img.shields.io/badge/Github%20Desktop-05122A?style=flat&logo=Github">
 		</kbd>
-  </p>
+	</p>
 </div> <!--Añadir más categorías-->
 
-<h2>Estatus</h2>
-<!--START_SECTION:waka-->
-name: Waka Readme
+<h2>Estatus 👑</h2>
 
-on:
-  schedule:
-    # Runs at 12am IST
-    - cron: '30 18 * * *'
-  workflow_dispatch:
-jobs:
-  update-readme:
-    name: Update Readme with Metrics
-    runs-on: ubuntu-latest
-    steps:
-      - uses: ACMA-Manyanet/waka-readme-stats@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-	- uses: anmol098/waka-readme-stats@master
-	  with:
-	      WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-	      GH_TOKEN: ${{ secrets.GH_TOKEN }}
-	      SHOW_OS: "False"
-	      SHOW_PROJECTS: "True"
-<!--END_SECTION:waka-->
