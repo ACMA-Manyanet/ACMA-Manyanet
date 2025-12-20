@@ -60,12 +60,12 @@
 	</p>
 	<p>
 		<kbd>
-			<kbd>
 			<kbd>📂 Cloud Storage</kbd>
 			<br>
 			<br>
 			<img alt="Google Drive" src="https://img.shields.io/badge/Google%20Drive-05122A?style=flat&logo=googledrive">
 		</kbd>
+		<kbd>
 			<kbd>🎨 Design</kbd>
 			<br>
 			<br>
