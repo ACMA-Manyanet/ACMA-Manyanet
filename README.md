@@ -83,18 +83,18 @@
 			<img alt="W3 Schools" src="https://img.shields.io/badge/W3%20Schools-05122A?style=flat&logo=w3schools">
 		</kbd>
 		<kbd>
-			<kbd>💻 IDEs</kbd>
-			<br>
-			<br>
-			<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-05122A?style=flat&logo=Visual%20Studio%20Code">
-		</kbd>
-	</p>
-	<p>
-		<kbd>
 			<kbd>🎶 Music</kbd>
 			<br>
 			<br>
 			<img alt="Audacity" src="https://img.shields.io/badge/Audacity-05122A?style=flat&logo=audacity">
+		</kbd>
+	</p>
+	<p>
+		<kbd>
+			<kbd>💻 IDEs</kbd>
+			<br>
+			<br>
+			<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-05122A?style=flat&logo=Visual%20Studio%20Code">
 		</kbd>
 		<kbd>
 			<kbd>🕓 Version Control</kbd>
