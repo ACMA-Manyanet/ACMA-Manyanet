@@ -23,7 +23,7 @@
   </tr>
 </table>
 
-<h2>Herramientasa 🛠️ </h2>
+<h2>Herramientas 🛠️ </h2>
 <div>
 	<p style="display: inline-block;">
 	<p>
@@ -57,15 +57,15 @@
 			<br>
 			<img alt="Tinkercad" src="https://img.shields.io/badge/Tinkercad-05122A?style=flat&logo=tinkercad">
 		</kbd>
+	</p>
+	<p>
 		<kbd>
+			<kbd>
 			<kbd>📂 Cloud Storage</kbd>
 			<br>
 			<br>
 			<img alt="Google Drive" src="https://img.shields.io/badge/Google%20Drive-05122A?style=flat&logo=googledrive">
 		</kbd>
-	</p>
-	<p>
-		<kbd>
 			<kbd>🎨 Design</kbd>
 			<br>
 			<br>
@@ -88,6 +88,8 @@
 			<br>
 			<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-05122A?style=flat&logo=Visual%20Studio%20Code">
 		</kbd>
+	</p>
+	<p>
 		<kbd>
 			<kbd>🎶 Music</kbd>
 			<br>
