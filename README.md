@@ -4,22 +4,24 @@
 
 <h2> ¡Bienvenidos a nuestro Github! 👋 </h2>
 
-
-
-<p align="justify">
-  <img align="right" 
-       alt="GIF" 
-       src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" 
-       width="200" 
-       hspace="20" 
-       vspace="10" />
-  
-  Somos **ACMA** (Agencia de Contenido Manyanet Alcobendas). Nos dedicamos a **facilitar** la vida a los profesores. 
-  <br><br>
-  Realizamos todo tipo de trabajos informáticos ya sean de creación de software como de creación de contenido (páginas web, pósters, vídeos...) enfocado en el nivel de los estudiantes para los cuales va dirigido. 
-  <br><br>
-  Por último, nos dedicamos a formar a nuestros integrantes en una gran variedad de herramientas (Photoshop, Python, Adobe Illustrator...) para conseguir que realicen los encargos solicitados de forma excepcional.
-</p>
+<table border="0">
+  <tr>
+    <td width="60%" style="vertical-align: top;">
+      <p align="justify">
+        Somos <b>ACMA</b> (Agencia de Contenido Manyanet Alcobendas). Nos dedicamos a <b>facilitar</b> la vida a los profesores.
+      </p>
+      <p align="justify">
+        Realizamos todo tipo de trabajos informáticos, ya sean de creación de software como de creación de contenido (páginas web, pósters, vídeos...) enfocado en el nivel de los estudiantes para los cuales va dirigido.
+      </p>
+      <p align="justify">
+        Por último, nos dedicamos a formar a nuestros integrantes en una gran variedad de herramientas (<b>Photoshop</b>, <b>Python</b>, <b>Adobe Illustrator</b>...) para conseguir que realicen los encargos solicitados de forma excepcional.
+      </p>
+    </td>
+    <td width="40%" style="vertical-align: top; text-align: center;">
+      <img src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" width="100%" style="border-radius: 10px;" />
+    </td>
+  </tr>
+</table>
 
 <h2>Herramientasa 🛠️ </h2>
 <div>
