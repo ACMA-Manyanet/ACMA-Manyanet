@@ -10,15 +10,15 @@
   <img align="right" 
        alt="GIF" 
        src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" 
-       width="500" 
+       width="200" 
        hspace="20" 
        vspace="10" />
   
   Somos **ACMA** (Agencia de Contenido Manyanet Alcobendas). Nos dedicamos a **facilitar** la vida a los profesores. 
   <br><br>
-  Realizamos todo tipo de trabajos informáticos ya sean de creación <br> de software como de creación de contenido (páginas web, pósters, vídeos...) enfocado en el nivel de los estudiantes para los cuales <br> va dirigido. 
+  Realizamos todo tipo de trabajos informáticos ya sean de creación de software como de creación de contenido (páginas web, pósters, vídeos...) enfocado en el nivel de los estudiantes para los cuales va dirigido. 
   <br><br>
-  Por último, nos dedicamos a formar a nuestros integrantes en una <br> gran variedad de herramientas (Photoshop, Adobe Illustrator, <br> Python...) para conseguir que realicen los encargos solicitados de <br> forma excepcional.
+  Por último, nos dedicamos a formar a nuestros integrantes en una gran variedad de herramientas (Photoshop, Python, Adobe Illustrator...) para conseguir que realicen los encargos solicitados de forma excepcional.
 </p>
 
 <h2>Herramientasa 🛠️ </h2>
