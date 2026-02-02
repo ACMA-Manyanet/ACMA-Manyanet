@@ -105,5 +105,3 @@
 	</p>
 </div> <!--Añadir más categorías-->
 
-<h2>Estatus 👑</h2>
-
