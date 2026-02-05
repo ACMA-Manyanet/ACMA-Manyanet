@@ -105,7 +105,7 @@
 	</p>
 </div> 
 
-<h2>🧱 Contribuciones</h2>
+<h2>Contribuciones 🧱</h2>
 
 <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=tokyonight&preferLogin=true&Title=3BDDB0">    <img  alt="ACMA-Manyanet's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/ACMA-Manyanet?cardType=level&theme=tokyonight&preferLogin=true&Title=3BDDB0" />  </a>
 
