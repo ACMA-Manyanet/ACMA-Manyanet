@@ -103,8 +103,5 @@
 			<img alt="Git" src="https://img.shields.io/badge/Git-05122A?style=flat&logo=Git">
 		</kbd>
 	</p>
-</div> <!--Añadir más categorías-->
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ACMA-Manyanet&show_icons=true&theme=radical)
+</div> 
 
