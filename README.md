@@ -105,3 +105,6 @@
 	</p>
 </div> <!--Añadir más categorías-->
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?ACMA=anuraghazra&show_icons=true&theme=radical)
+
